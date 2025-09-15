@@ -84,7 +84,7 @@ Sprint 5 mechanics: polish/levels.
 
 ## 10. Inspiratie
 Noem een bestaande tower defense game die jou inspireert en wat je daarvan meeneemt of juist vermijdt.
-
+valdros, zelda, bloons
 ## 11. Technisch ontwerp mini
 
 Lees dit korte voorbeeld en vul daarna jouw eigen keuzes in.
